@@ -7,5 +7,5 @@ app = Flask(__name__)
 def home():
     return "API is working fine"
 
-if __name__ == "__main__":
-    app.run()
+# if __name__ == "__main__":
+#     app.run()
